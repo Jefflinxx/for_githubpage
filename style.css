@@ -13,7 +13,7 @@
    
    background-color: #d2d0d0;
    position: relative;
-   
+   overflow: none;
   }
 
   .n-title{
